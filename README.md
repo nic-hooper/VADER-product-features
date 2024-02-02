@@ -1,5 +1,6 @@
 # VADER-product-features
-Utilizing VADER sentiment-analysis to analyze product features of clustered Amazon reviews
+Utilizing VADER sentiment-analysis to analyze product features of clustered Amazon reviews.  
+Full report and references can be found in sentiment-driven-analysis.pdf
 
 ## Description
 This project presents a comprehensive analysis of Amazon user reviews for a specific product category using sentiment analysis methods as well as clustering. The overall goal was to gain insight into the relationship between user reviews and quantified sentiment for the purpose of extracting insights to better inform business decisions.  
